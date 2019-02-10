@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Applicationbhbkb</string>
+    <string name="clickme">clickme</string>
+    <string name="clear">clear</string>
+    <string name="button">Button</string>
+    <string name="xml_button">XML Button</string>
+    <string name="java_button">java button</string>
+</resources>
